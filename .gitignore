@@ -1,0 +1,5 @@
+# Ignorar a pasta gabarito
+gabarito/
+
+# Ignorar a pasta logs
+logs/
