@@ -4,7 +4,7 @@
   O processo inclui limpeza e organização dos dados em <b>Power Query</b> e <b>Excel</b>, a partir de um arquivo de texto bruto. 
   O dashboard oferece insights estratégicos para tomada de decisão.
 </p>
-<img src="img/ImgProjeto.PNG" alt="Imagem do projeto" width="300">
+<img src="img/ImgProjeto.PNG" alt="Imagem do projeto" width="555">
 
 
 
